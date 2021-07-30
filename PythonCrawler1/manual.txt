@@ -1,0 +1,5 @@
+trinh tu chay file
+
+1.getCategoriesAndLinks		//Get list of link to categories in file
+2.getProductLinks
+3.getLinesOfFiles		//Get number of Lines in each file to lineNumber.txt
